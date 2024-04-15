@@ -1,0 +1,21 @@
+
+C
+java:S1604z"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+n
+java:S1450‚"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+n
+java:S1450ƒ"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ
+r
+java:S1450„"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+w
+java:S1450…"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+m
+java:S1450†"VRemove the "jTable1" field and declare it as a local variable in the relevant methods.(Ğÿ¿×
+E
+java:S1197a"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+[
+java:S2147p"ECombine this catch with the one at line 110, which has the same body.(¨¦Š½
+[
+java:S2147r"ECombine this catch with the one at line 112, which has the same body.(ã€ 
+Z
+java:S2147t"ECombine this catch with the one at line 114, which has the same body.(ñÎ¯%
